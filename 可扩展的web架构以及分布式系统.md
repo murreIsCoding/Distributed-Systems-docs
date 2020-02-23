@@ -1,6 +1,5 @@
-# Scalable Web Architecture and Distributed Systems  ---Kate Matsudaira
 # 可扩展的web架构以及分布式系统
-原文地址： [](http://www.aosabook.org/en/distsys.html#fig.distsys.1)
+原文地址 [Scalable Web Architecture and Distributed Systems  ---Kate Matsudaira](http://www.aosabook.org/en/distsys.html)
 
 开源软件已经成为许多大型网站的基本构成部分。并且随着网站的发展，这些网站使用的架构开始浮现出一些最佳实践和指导原则。这一章节试图涵盖设计这些大型网站时出现的关键问题，以及为了达到这些目标需要的基本构成部分。
 
